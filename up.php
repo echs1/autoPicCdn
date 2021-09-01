@@ -46,11 +46,11 @@ define("TOKEN","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");
 //数据库配置文件
 //请确保把当前目录下的 pic.sql 导入到你的数据库
 $database = array(
-        'dbname' => 'YourDbName',//你的数据库名字
-        'host' => 'localhost',
+        'dbname' => 'jln014ue46.bt',//你的数据库名字
+        'host' => '220.167.103.46',
         'port' => 3306,
-        'user' => 'YourDbUser',//你的数据库用户名
-        'pass' => 'YourDbPass',//你的数据库用户名对应的密码
+        'user' => 'jln014ue46.bt',//你的数据库用户名
+        'pass' => 'qo08p5',//你的数据库用户名对应的密码
     );
     
 
